@@ -3,6 +3,8 @@
  preferí usar esto ya que en lo personal no me gusta google colab
  añadir de preferencia extensión de jupiter a su vscode para poder visualizar los dataframes c:
 
+# 1. Clonar y entrar a la carpeta
+
 git clone https://github.com/lucaspoor/dataframe-lab.git
 cd dataframe-lab
 
