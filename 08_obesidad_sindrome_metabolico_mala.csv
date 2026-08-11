@@ -1,0 +1,301 @@
+﻿ID,Nombre,Edad,Sexo,Fecha_Nacimiento,Fecha_Control,Altura,Peso,Cintura,Presion_Arterial,Trigliceridos,Glucosa,Riesgo_Metabolico
+P001,Ana Muñoz,85,Femenino,1941-10-21,2026/08/03,154 cm,111,79,138/105,386,162,
+P002,Cristóbal Campos,64,M,19-01-1962,2026.07.31,1.76 m,109,94,129 / 82,308.0 mg/dL,-,MUY ALTO
+P003,María Reyes,51,mujer,1975-10-09,2026-07-28,1.90 m,50kg,73,128/109,419,101.0 mg/dL,alto
+P004,Ana González,sesenta,mujer,1972.03.28,25/07/2026,154,80,,152/67,316,8.7 mmol/L,Bajo
+P005,Catalina Contreras,58,f,1968-06-13,2026/07/22,1.48 m,45,137,113/181,98,12.2 mmol/L,alto
+P006,Antonia Peña,71,mujer,1955-04-03,2026.07.19,1.57 m,-,72,181-61,407.0 mg/dL,91,Bajo
+P007,María González,59,Femenino,24/08/1967,16-07-2026,"1,90",120 kg,135.0 cm,137/90,165,178.0 mg/dL,Alto
+P008,Nicolás León,55,Masculino,1971.12.19,13/07/2026,194,122 kg,105.0 cm,115/65,373.0 mg/dL,11.4 mmol/L,alto
+P009,Daniela Méndez,67,Femenino,04/07/1959,2026.07.10,1.81 m,-,78,166-105,68,73.0 mg/dL,alto
+P010,Martín Vera,cuarenta,Masculino,1958-03-07,07-07-2026,179 cm,121 lb,66.0 cm,119/73,302,162,Bajo
+P011,Catalina Campos,56,Femenino,1970.02.14,2026/07/04,161 cm,N/A,124,181/75,97.0 mg/dL,,Moderado
+P012,Paula León,74,f,1952-08-10,01/07/2026,"1,92",59kg,66,90/85 mmHg,221.0 mg/dL,3.8 mmol/L,Alto
+P013,Constanza Castillo,61,mujer,1965.01.28,2026.06.28,1.80m,227 lb,106.0 cm,156-56,325,159.0 mg/dL,
+P014,Camila López,56,mujer,1970/09/09,2026/06/25,185,57kg,1.4 m,,105.0 mg/dL,149,alto
+P015,Daniela Tapia,23,mujer,14/06/2003,22-06-2026,1.66 m,-,,118/69 mmHg,145.0 mg/dL,186,alto
+P016,Ricardo Rojas,86,Hombre,1940/12/23,2026-17-19,164,187 lb,sin dato,140/87,243.0 mg/dL,160,
+P017,Felipe Pérez,53,M,1973-08-20,16/06/26,"1,53",-,94,101-87,275,199,
+P018,Ana Salazar,88,mujer,1938-07-24,2026/06/13,"1,48",86kg,1.4 m,146/76,65.0 mg/dL,11.2 mmol/L,
+P019,Matías Molina,25,Masculino,2001.05.07,2026-06-10,182 cm,46kg,98.0 cm,181-92,59.0 mg/dL,188.0 mg/dL,alto
+P020,Andrés Castillo,54,H,1972/02/28,2026.06.07,1820 mm,116,0.8 m,99/115 mmHg,156.0 mg/dL,128.0 mg/dL,alto
+P021,Nicolás González,23,Masculino,2003/02/26,04/06/26,186,47.0,122,186/98,,225.0 mg/dL,Alto
+P022,Tomás Díaz,71,masculino,1955-07-12,2026.06.01,1.64 m,109kg,sin dato,97-79,379.0 mg/dL,125,Moderado
+P023,Juan Peña,42,M,1984-05-17,2026/05/29,1610 mm,119kg,1.0 m,128-79,191,147.0 mg/dL,Bajo
+P024,Juan González,84,M,1942-06-27,26-05-2026,"1,86",168 lb,sin dato,99/98,,123,alto
+P025,Felipe Molina,75,H,1951/07/03,23/05/26,"1,82",99,88,185/112 mmHg,353.0 mg/dL,137,MUY ALTO
+P026,Daniela Silva,33,Femenino,16-10-1993,20/05/2026,1.85m,113kg,105,185 / 73,389,-,
+P027,Sebastián León,65,Hombre,1961.10.27,2026/05/17,1.84 m,225 lb,115.0 cm,170-72,167,147,Bajo
+P028,Juan Rojas,53,M,12-06-1973,2026/05/14,1680 mm,122kg,116,188/64,186,102.0 mg/dL,Bajo
+P029,Ana Tapia,59,Femenino,1967.12.08,2026.05.11,178,125 kg,64,124 / 92,167.0 mg/dL,155.0 mg/dL,alto
+P030,Sofía Méndez,18,Femenino,21-11-2008,08/05/2026,152 cm,-,0.7 m,185/96,210,132,
+P031,Diego Tapia,76,M,22-10-1950,2026-05-05,"1,60",N/A,104,157/109,308.0 mg/dL,119.0 mg/dL,alto
+P032,Pedro Soto,22,Masculino,2004-07-32,02-05-2026,1590 mm,N/A,123.0 cm,150/110,362,119,Moderado
+P033,Macarena Vega,43,f,01-01-1983,29/04/2026,176 cm,51kg,86.0 cm,186/64,79.0 mg/dL,125,MUY ALTO
+P034,Daniela Navarro,88,mujer,18-11-1938,2026-04-26,1750 mm,66 kg,0.6 m,171/97,140.0 mg/dL,205.0 mg/dL,Alto
+P035,Tomás Morales,29,Hombre,02/09/1997,2026-04-23,1870 mm,51 kg,87,121/99,269,209.0 mg/dL,Moderado
+P036,Nicolás Vera,18,Masculino,01/06/2008,2026.04.20,159,119 kg,1.0 m,103 / 56,331,131,alto
+P037,Daniela Herrera,40,Femenino,22/15/1986,17/04/2026,179,90.0,74.0 cm,142/56,156.0 mg/dL,88,Moderado
+P038,Valentina Herrera,32,Femenino,1994-06-20,14/04/2026,192 cm,116 kg,,167/94,272.0 mg/dL,230,Alto
+P039,Felipe Pérez,30,M,04/15/1996,11-04-2026,1.85 m,132 lb,129,141/62,96,162,Alto
+P040,Sebastián Molina,56,Hombre,11-06-1970,2026-08-06,168,97.6,114,,126.0 mg/dL,69,MUY ALTO
+P041,Macarena López,32,Femenino,1994-03-23,2026-08-03,157 cm,45 kg,sin dato,189/55,262.0 mg/dL,197,
+P042,Sofía Soto,83,Femenino,13/11/1943,31/07/2026,164,-,91,173 / 72,91,221,alto
+P043,Felipe Reyes,76,Masculino,21/15/1950,2026.07.28,159 cm,209 lb,1.3 m,122/84,84.0 mg/dL,174.0 mg/dL,MUY ALTO
+P044,Tomás Peña,76,Hombre,14-08-1950,25/07/26,181 cm,N/A,126.0 cm,122/91,286,124,Alto
+P045,Catalina Torres,24,F,2002/12/14,22/07/26,162 cm,99,61.0 cm,99/96,201,9.8 mmol/L,MUY ALTO
+P046,Antonia Contreras,86,Femenino,1940-12-26,19/07/26,1.61m,80.3,140,165/107,361,86.0 mg/dL,Bajo
+P047,Pedro Contreras,29,masculino,1997/01/20,16/07/26,1.86 m,N/A,130,131/85 mmHg,130,108,alto
+P048,Cristóbal Díaz,36,H,1990/10/10,13-07-2026,185,71 kg,84,108/56,205,230.0 mg/dL,alto
+P049,Isidora Rojas,31,f,1995/08/19,2026.07.10,148 cm,111,1.0 m,179/77,406.0 mg/dL,120.0 mg/dL,alto
+P050,Sebastián Tapia,71,Masculino,1955-06-11,07/07/26,157,88.6,85,135/61,328,sin dato,MUY ALTO
+P051,Diego Herrera,66,H,1960.07.04,04/07/26,1570 mm,48kg,109,120/80 mmHg,213,169,Moderado
+P052,María Espinoza,44,f,1982.02.07,2026.07.01,1.71m,105 kg,128.0 cm,150/87,409.0 mg/dL,195,Alto
+P053,Nicolás Vera,63,Masculino,16/15/1963,28/06/26,1.76 m,46 kg,0.6 m,116 / 102,418,221.0 mg/dL,MUY ALTO
+P054,Andrés Navarro,56,masculino,1970/10/03,2026/06/25,1.74 m,46 kg,110,183/81,192,231.0 mg/dL,
+P055,Nicolás Navarro,53,H,12/01/1973,2026-17-22,160 cm,75,119,183/84,198,4.6 mmol/L,Moderado
+P056,Diego Núñez,29,M,1997.12.25,2026/06/19,1.50 m,N/A,115.0 cm,142 / 113,166,101.0 mg/dL,
+P057,Paula Vidal,45,Femenino,1981.02.21,16/06/26,171 cm,205 lb,110,119/217,404,139,Bajo
+P058,Tomás Salazar,20,Hombre,2006-01-25,2026-06-13,"1,53",234 lb,100,105 / 77,250,129,Moderado
+P059,Camila Muñoz,28,mujer,1998-12-07,10/06/2026,1.70m,104 kg,64,142/97 mmHg,400.0 mg/dL,161,alto
+P060,Isidora López,41,F,1985.07.02,2026.06.07,153 cm,47,144.0 cm,,291,,
+P061,Constanza Fuentes,29,f,13-04-1997,04/06/26,162 cm,102 kg,135,161/106 mmHg,398.0 mg/dL,207,
+P062,Antonia Salazar,34,mujer,1992/09/08,2026-06-01,"1,95",115kg,94.0 cm,140/102,325.0 mg/dL,180,
+P063,Catalina Núñez,33,f,1993.02.04,29-05-2026,1.64m,87.6,1.2 m,168/100,275,69,Moderado
+P064,Andrés Peña,54,Masculino,15-05-1972,2026/05/26,1.90 m,105kg,-,91/55,262,240,Alto
+P065,Ricardo Soto,29,Masculino,1997-09-11,23/05/26,1540 mm,-,96,169-91,84,103,MUY ALTO
+P066,María Vega,51,f,1975-05-23,20/05/2026,179,254 lb,140,144-95,406.0 mg/dL,125,alto
+P067,María Núñez,71,f,1955.08.06,2026.05.17,1640 mm,N/A,1.2 m,107-102,160.0 mg/dL,89,Moderado
+P068,Martín López,36,H,1990-06-24,14/05/26,"1,92",116,125,124/105,370,137,Moderado
+P069,Tomás Núñez,56,Hombre,27/04/1970,2026.05.11,160 cm,-,1.4 m,171/64 mmHg,166.0 mg/dL,162,alto
+P070,Antonia Navarro,83,F,1943/09/28,2026.05.08,1.84 m,96 kg,114,105/179,sin dato,179.0 mg/dL,
+P071,Sofía Méndez,33,F,03-06-1993,05/05/2026,180,68,1.3 m,112/94,,115.0 mg/dL,Bajo
+P072,Cristóbal Soto,83,masculino,1943.12.14,2026.05.02,185 cm,113 kg,130,139-55,N/A,201.0 mg/dL,
+P073,Daniela Díaz,21,mujer,2005-03-26,2026/04/29,179,123 lb,87,121/88,220,202.0 mg/dL,alto
+P074,María Reyes,71,Femenino,1955-02-05,26/04/2026,157 cm,67 kg,115,132/63,364,94.0 mg/dL,
+P075,Camila Ortega,71,F,1955/11/06,23/04/2026,1.71 m,108,98.0 cm,151/110,409,148,Moderado
+P076,Cristóbal Vega,64,M,27/09/1962,20/04/2026,1.51 m,46,144,161/107,198,76,Bajo
+P077,Constanza Vidal,56,mujer,17/06/1970,17/04/26,1.67m,97kg,119,153/104,171,189,
+P078,Antonia Herrera,50,Femenino,1976.12.12,2026/04/14,1.62m,139 lb,141.0 cm,127/112,281.0 mg/dL,214,alto
+P079,Diego Herrera,41,H,17/05/1985,2026.04.11,"1,84",81 kg,134,118/214,267.0 mg/dL,206,MUY ALTO
+P080,Carlos Araya,84,H,15-02-1942,06/08/26,165 cm,95 kg,90,177/56 mmHg,212.0 mg/dL,151,MUY ALTO
+P081,Benjamín Contreras,47,Masculino,1979.06.13,03/08/2026,"1,84",125 kg,N/A,168/94,84,sin dato,alto
+P082,Macarena Molina,54,Femenino,1972-06-15,2026-07-31,1.74 m,86,112,98/69,286,75.0 mg/dL,alto
+P083,Sofía Reyes,83,mujer,1943/09/27,2026-07-28,1.62m,108 kg,138,176/85,309,232.0 mg/dL,MUY ALTO
+P084,Daniela Herrera,64,Femenino,25-11-1962,2026-17-25,1630 mm,112 kg,119,104/203,175.0 mg/dL,,
+P085,Antonia Méndez,26,f,2000-13-03,22/07/2026,1.95 m,48 kg,141,90/94,102,186,Bajo
+P086,Sebastián Morales,18,Hombre,2008-06-23,2026/07/19,1.88 m,76.3,73,178/113,185,112,alto
+P087,Cristóbal Tapia,49,Hombre,1977/11/17,2026/07/16,1790 mm,115.3,115.0 cm,125/70,58,95,
+P088,Benjamín Campos,87,Hombre,09-04-1939,2026.07.13,1.55 m,49,137.0 cm,184/89,262,114,alto
+P089,Ana León,38,mujer,1988-01-10,10/07/26,"1,52",N/A,124,91/85,288,193,MUY ALTO
+P090,Pedro Peña,49,masculino,27-09-1977,07/07/26,"1,50",185 lb,135,,286,192.0 mg/dL,Bajo
+P091,María Morales,71,mujer,11-09-1955,04/07/26,155 cm,124 kg,101,139/108,175,99,
+P092,Javiera Vega,46,F,1980/08/06,2026.07.01,1.76 m,97kg,107,119/185,207.0 mg/dL,99.0 mg/dL,
+P093,Matías Torres,51,M,21/03/1975,28-06-2026,1.61 m,98 kg,0.9 m,112/101 mmHg,127,216,MUY ALTO
+P094,Catalina Vega,68,mujer,23/12/1958,2026/06/25,1.94 m,93 kg,96.0 cm,106/114,114,143,Bajo
+P095,Benjamín Peña,34,Masculino,1992-11-32,22/06/26,1.64m,-,96.0 cm,160-64,348,119.0 mg/dL,Alto
+P096,Catalina Méndez,75,F,26/03/1951,2026-06-19,"1,70",47 kg,129.0 cm,97/107,248,232,Moderado
+P097,Pedro Campos,66,masculino,1960/07/18,16-06-2026,1670 mm,77.8,,115 / 104,82.0 mg/dL,131,Alto
+P098,Benjamín Campos,62,masculino,26/07/1964,13-06-2026,"1,89",83kg,88,105 / 71,305,11.0 mmol/L,Moderado
+P099,Camila Fuentes,41,Femenino,1985-13-17,2026-17-10,189,N/A,129,121/58 mmHg,326,160,Alto
+P100,María González,78,Femenino,1948-08-32,2026.06.07,160 cm,90,102,187/94,148,124,MUY ALTO
+P101,Paula Espinoza,76,mujer,19-01-1950,2026-17-04,1.84 m,124,123.0 cm,184/71,344,215,MUY ALTO
+P102,Juan Contreras,77,M,1949.07.20,2026/06/01,1.60 m,-,113,92/113,389,233.0 mg/dL,alto
+P103,Francisca Salazar,33,f,1993-13-06,29/05/2026,1.70m,45 kg,109,135/80,366.0 mg/dL,75,
+P104,Paula Campos,60,Femenino,1966-13-23,2026-05-26,158 cm,209 lb,85,157-56,386,142,
+P105,Nicolás Araya,87,Hombre,11-11-1939,2026.05.23,186 cm,58 kg,N/A,180/73,279.0 mg/dL,157,
+P106,José Pérez,34,Masculino,1992/04/28,20/05/26,"1,61",227 lb,106,91/58,,165,Bajo
+P107,José Fuentes,47,Masculino,1979.11.04,2026-05-17,1.85 m,52 kg,128,172/60,312,143,Moderado
+P108,Macarena Rojas,81,mujer,02-09-1945,14/05/2026,157 cm,117,1.2 m,144-62,261,65.0 mg/dL,MUY ALTO
+P109,Fernanda Silva,39,F,1987-01-06,2026-05-11,1.79 m,54 kg,94,121/92,409,9.1 mmol/L,Alto
+P110,Pedro Soto,33,M,1993/11/20,08/05/26,1640 mm,61.3,132,111/110 mmHg,119.0 mg/dL,203,Moderado
+P111,Francisca Contreras,46,mujer,1980/09/23,2026-05-05,156 cm,99 kg,102.0 cm,95-67,163.0 mg/dL,235,Alto
+P112,Martín Ortega,86,Hombre,1940.08.20,2026.05.02,1810 mm,114 kg,1.4 m,140 / 95,355,97,Moderado
+P113,Felipe Pérez,63,Hombre,1963-13-25,29/04/26,1.67 m,174 lb,113.0 cm,108/107,337.0 mg/dL,116,Bajo
+P114,Ricardo Soto,58,M,1968.09.15,26/04/26,1.87m,58kg,135,176 / 61,87,226,Alto
+P115,Ana Molina,83,Femenino,1943.06.24,2026-04-23,1900 mm,77,74.0 cm,139/75,378.0 mg/dL,133.0 mg/dL,
+P116,Cristóbal León,71,Hombre,1955.12.17,20/04/26,166 cm,64,69,165/83,289,8.0 mmol/L,MUY ALTO
+P117,Javiera Pérez,52,F,1974.07.15,2026/04/17,1.63 m,N/A,91,166/69,55,131.0 mg/dL,Alto
+P118,Isidora Navarro,19,f,2007-03-09,14-04-2026,155 cm,107 kg,62.0 cm,101/56,403.0 mg/dL,236,Alto
+P119,Fernanda Molina,20,f,2006/07/16,11/04/2026,"1,83",50 kg,,180/103,92.0 mg/dL,sin dato,Bajo
+P120,María Reyes,82,F,1944.05.06,06-08-2026,187 cm,76 kg,85,114/182,222,78,Alto
+P121,Isidora Ortega,69,F,24/08/1957,03/08/2026,184,69 kg,130,103/97,314,218,MUY ALTO
+P122,Isidora Vidal,69,f,1957.01.08,2026-07-31,1.60 m,58kg,91,132 / 83,98.0 mg/dL,227,Alto
+P123,Matías Torres,67,M,20/01/1959,28/07/2026,"1,90",N/A,,156 / 114,303,168.0 mg/dL,Moderado
+P124,Francisca Núñez,85,F,09/02/1941,25-07-2026,"1,59",45,109,107/113,163,120.0 mg/dL,Bajo
+P125,Juan Espinoza,79,masculino,1947.10.23,2026.07.22,1680 mm,46,,126-81,125,209.0 mg/dL,Moderado
+P126,Francisca Morales,41,f,1985-13-25,2026.07.19,1.57 m,95kg,68,107/93,416.0 mg/dL,187.0 mg/dL,MUY ALTO
+P127,Matías Tapia,55,M,22-09-1971,16/07/2026,"1,94",50 kg,1.1 m,186 / 74,253,87,Alto
+P128,José Campos,62,masculino,23-10-1964,13-07-2026,1.57m,68 kg,0.7 m,110/204,207,208,alto
+P129,Isidora Pérez,85,Femenino,1941-07-19,2026.07.10,192 cm,45 kg,1.3 m,166 / 72,413.0 mg/dL,195.0 mg/dL,Bajo
+P130,Constanza Torres,71,Femenino,1955/07/20,07/07/26,"1,79",-,1.0 m,132/115,152,77,MUY ALTO
+P131,Antonia Herrera,46,F,1980/07/07,2026/07/04,"1,54",115 lb,143.0 cm,141/105,58,153,Bajo
+P132,Andrés Díaz,81,H,19-02-1945,2026.07.01,"1,84",70,135,187/77,410,,
+P133,Constanza Pérez,37,F,1989.02.08,2026-06-28,167 cm,83,127,,367,191,Alto
+P134,Daniela Vera,24,F,2002.05.24,25-06-2026,152 cm,88 kg,111,179/59,259,139.0 mg/dL,Alto
+P135,Fernanda González,50,F,1976/06/10,2026/06/22,1.54 m,83 kg,95.0 cm,153/78,188.0 mg/dL,7.9 mmol/L,alto
+P136,Diego Soto,67,M,08-04-1959,2026-06-19,1640 mm,117 kg,139,,284.0 mg/dL,83.0 mg/dL,Moderado
+P137,Diego Torres,45,Masculino,08/01/1981,16-06-2026,"1,86",117,75,128 / 62,157,122.0 mg/dL,Bajo
+P138,Sofía Contreras,59,Femenino,1967-01-06,2026/06/13,1.81 m,115 kg,117,136/76,60,126,Bajo
+P139,Ricardo Soto,29,masculino,27-11-1997,2026/06/10,187 cm,57 kg,82.0 cm,135/92,325,77,MUY ALTO
+P140,Valentina Campos,20,mujer,28-06-2006,07/06/26,174 cm,77 kg,115.0 cm,116/110,62.0 mg/dL,171,MUY ALTO
+P141,Benjamín Rojas,34,M,05/15/1992,04/06/2026,"1,64",70 kg,94,113/164,226,183,alto
+P142,Francisca Peña,46,Femenino,11/11/1980,2026-17-01,182 cm,64.2,114,185-60,249,4.4 mmol/L,Moderado
+P143,Paula Reyes,41,Femenino,01/11/1985,29/05/26,161 cm,-,88,117/99 mmHg,,111,Alto
+P144,Benjamín León,50,Hombre,01-01-1976,26-05-2026,1770 mm,54 kg,143,,151.0 mg/dL,204,
+P145,Benjamín López,40,Hombre,1986-03-06,2026.05.23,190 cm,73 kg,103,173/76,393.0 mg/dL,12.8 mmol/L,Moderado
+P146,Isidora Castillo,49,mujer,17-02-1977,20/05/2026,1.85 m,124 kg,69.0 cm,190 / 104,353.0 mg/dL,215,Alto
+P147,Benjamín Vega,57,masculino,17-03-1969,2026-05-17,194 cm,58 kg,133,116/176,157,72.0 mg/dL,Moderado
+P148,Juan Molina,88,M,05-07-1938,2026/05/14,175,119 lb,1.0 m,103/115,271,90,Moderado
+P149,Francisca Méndez,45,F,18/08/1981,2026/05/11,1.69 m,65,64,97/73,410,201,alto
+P150,Macarena León,37,mujer,28/08/1989,08-05-2026,180,N/A,91,103/112,259.0 mg/dL,181,
+P151,Matías Rojas,54,Hombre,13-11-1972,2026.05.05,151 cm,N/A,81,155/70,N/A,171.0 mg/dL,Alto
+P152,María Tapia,23,Femenino,27/06/2003,02-05-2026,154,69.9,117,181/89,417.0 mg/dL,100.0 mg/dL,
+P153,Macarena Campos,59,Femenino,27/11/1967,29/04/2026,1.56 m,-,106,151-62,sin dato,130.0 mg/dL,MUY ALTO
+P154,Catalina Núñez,50,mujer,11-11-1976,2026/04/26,188,N/A,134,152/94 mmHg,388,66,Moderado
+P155,Sebastián Fuentes,39,H,03/06/1987,23/04/26,"1,57",134 lb,69,158/76,52,66,alto
+P156,Francisca Vega,75,Femenino,28/05/1951,20/04/2026,1.88m,114kg,1.0 m,163/89 mmHg,149.0 mg/dL,172,Bajo
+P157,Tomás Díaz,51,H,1975/07/15,17/04/2026,182 cm,56 kg,0.8 m,,145,240,Alto
+P158,Isidora Espinoza,85,mujer,20-04-1941,2026/04/14,158,85,1.4 m,163/110 mmHg,68,90,MUY ALTO
+P159,Martín Navarro,65,Masculino,03/11/1961,2026-04-11,1910 mm,67 kg,140.0 cm,124/71,66.0 mg/dL,192,
+P160,Antonia Herrera,32,mujer,27/04/1994,2026-08-06,175 cm,52.1,0.6 m,128/94,305,162,MUY ALTO
+P161,Martín Pérez,37,masculino,1989.09.04,2026-08-03,167 cm,205 lb,75,,77,237.0 mg/dL,Alto
+P162,María Castillo,75,F,26-11-1951,31/07/2026,174 cm,159 lb,73,180/83,222,240,Alto
+P163,Andrés Vega,46,masculino,03/02/1980,28/07/2026,"1,89",104 lb,134.0 cm,101/179,246.0 mg/dL,110,Bajo
+P164,Paula Vera,22,f,2004.12.06,25/07/26,1.48m,124 kg,sin dato,155/68 mmHg,102.0 mg/dL,166,Alto
+P165,Camila Pérez,77,f,05-08-1949,22/07/2026,182 cm,60 kg,139,160/101,306,175,Bajo
+P166,Ricardo González,60,M,05-11-1966,2026.07.19,193,271 lb,82.0 cm,141/93,143,,MUY ALTO
+P167,Ana Contreras,45,f,14/15/1981,2026/07/16,155,72,1.1 m,107/69 mmHg,341.0 mg/dL,10.6 mmol/L,
+P168,Catalina Navarro,78,F,1948-01-04,2026/07/13,1.88 m,84 kg,135.0 cm,99/84,395,225,Alto
+P169,Valentina Soto,44,F,1982/02/13,2026-17-10,1.92 m,-,119,,319,227.0 mg/dL,Bajo
+P170,María López,84,mujer,1942-02-16,07/07/26,160,120 kg,79,116/78,187.0 mg/dL,93,MUY ALTO
+P171,Diego Araya,57,M,1969/10/07,04-07-2026,1510 mm,59 kg,137,180/74,248,205,
+P172,Valentina Salazar,36,F,1990/12/25,2026/07/01,189,119 kg,135,139/91,N/A,12.7 mmol/L,Alto
+P173,Pedro Campos,67,M,07/12/1959,2026.06.28,1.67 m,75.8,99.0 cm,174/85,103,109,
+P174,Daniela Muñoz,37,f,1989.02.08,25/06/2026,1.59 m,68kg,,105/191,305.0 mg/dL,98.0 mg/dL,
+P175,Cristóbal Díaz,27,Hombre,1999/10/28,22/06/2026,1.74 m,105kg,1.4 m,117/189,306,-,alto
+P176,Camila Herrera,32,Femenino,15/04/1994,19/06/2026,1780 mm,163 lb,88,134 / 113,,-,alto
+P177,Benjamín Rojas,74,H,1952/11/09,16/06/2026,1.65 m,113 kg,105,103/212,256.0 mg/dL,117.0 mg/dL,MUY ALTO
+P178,Antonia Campos,38,Femenino,1988.05.02,2026-17-13,156 cm,88,95,103/103 mmHg,124,200,Moderado
+P179,Pedro Espinoza,30,Masculino,1996.02.21,2026.06.10,174,117 kg,89,,254.0 mg/dL,139.0 mg/dL,Moderado
+P180,Daniela Araya,25,Femenino,2001-05-28,2026.06.07,177,96 kg,136,153/61,163,142,MUY ALTO
+P181,Daniela Reyes,47,F,1979.05.20,04-06-2026,180 cm,105kg,94,133/89,331,179.0 mg/dL,MUY ALTO
+P182,Martín Espinoza,36,masculino,1990.02.15,2026.06.01,1.86 m,57 kg,0.7 m,134/98,327,108,Bajo
+P183,Andrés Núñez,27,Hombre,19/08/1999,29/05/26,164 cm,58,100,139/95,369.0 mg/dL,180,alto
+P184,Felipe Molina,70,H,1956/03/28,26-05-2026,1.72 m,49 kg,109,93/69,,236,
+P185,José Núñez,28,Masculino,06/06/1998,2026/05/23,175,110,85,170/115,242,8.1 mmol/L,Bajo
+P186,Macarena Fuentes,67,mujer,04-07-1959,2026-05-20,190,46.0,96,175/74 mmHg,237.0 mg/dL,131,Moderado
+P187,Daniela Herrera,33,F,01/06/1993,17-05-2026,1.89 m,75 kg,124,184/88,203,9.9 mmol/L,
+P188,Nicolás Salazar,60,Hombre,1966/02/21,14-05-2026,180,90,96,124/109,,131,Bajo
+P189,Felipe Vidal,73,M,1953.12.21,11/05/2026,1840 mm,76,124,102/213,,228.0 mg/dL,Moderado
+P190,Cristóbal González,86,Masculino,04-05-1940,08/05/26,168,96 kg,88,128/70,127.0 mg/dL,205,
+P191,Fernanda Morales,88,mujer,1938.03.04,05/05/26,1580 mm,-,133.0 cm,155 / 82,124,7.3 mmol/L,Moderado
+P192,Carlos Morales,47,Masculino,1979.05.02,02/05/26,162 cm,81 kg,74,155/65 mmHg,378,5.8 mmol/L,alto
+P193,Javiera Vera,22,f,2004/12/21,2026-04-29,1750 mm,N/A,100,145/74,386,211,
+P194,Martín González,33,H,1993.12.15,26/04/2026,1.67 m,107,75,155/59,261,138.0 mg/dL,Moderado
+P195,Martín Reyes,38,Masculino,06/07/1988,2026-04-23,"1,84",112kg,114,136/114,365,235,Alto
+P196,Pedro Herrera,66,M,13/12/1960,2026.04.20,188 cm,N/A,125,148/100,109.0 mg/dL,129,MUY ALTO
+P197,Ana López,54,Femenino,15/06/1972,2026-04-17,165 cm,110,137,135 / 110,47,157,MUY ALTO
+P198,Andrés Fuentes,48,Hombre,17-08-1978,14/04/2026,"1,56",209 lb,131,138 / 97,380,187,Bajo
+P199,Tomás Fuentes,28,M,12-12-1998,2026.04.11,172,121kg,92.0 cm,141/115,173,133,
+P200,Sebastián Herrera,64,H,17-10-1962,2026.08.06,"1,52",134 lb,62,171/87,153.0 mg/dL,231,
+P201,Felipe González,33,H,1993.03.05,2026-17-03,1.59 m,56kg,99,141/82,292,224,Moderado
+P202,Nicolás Méndez,37,Hombre,1989/02/24,2026.07.31,1.65 m,79kg,-,189/105,352.0 mg/dL,196.0 mg/dL,alto
+P203,Catalina Campos,72,Femenino,1954.03.11,2026/07/28,1.72 m,118kg,62.0 cm,101 / 106,179.0 mg/dL,237.0 mg/dL,Alto
+P204,Carlos Soto,75,Masculino,15/10/1951,25/07/2026,154 cm,90,1.2 m,,250,sin dato,alto
+P205,José Rojas,36,Hombre,1990.04.21,22-07-2026,181,88kg,105,170 / 73,396,9.3 mmol/L,Moderado
+P206,María Molina,71,mujer,09/04/1955,19-07-2026,1.95 m,108,111.0 cm,110/100,349.0 mg/dL,177,Alto
+P207,María Molina,53,mujer,1973/12/13,16/07/2026,185 cm,108 kg,N/A,113/67,386,108,Alto
+P208,José Díaz,83,masculino,1943-01-03,2026.07.13,1.64m,62.8,1.4 m,104 / 68,244.0 mg/dL,73,MUY ALTO
+P209,Antonia Vega,19,F,23/15/2007,10/07/26,1.63 m,61 kg,137.0 cm,189/85,52,168,Moderado
+P210,Carlos Espinoza,20,M,2006/01/18,07-07-2026,1.86 m,85kg,75,110/74,224,175,alto
+P211,José Salazar,23,H,08-02-2003,2026.07.04,1.94m,45,131,169/99,N/A,149,Bajo
+P212,María Salazar,22,Femenino,08/10/2004,01/07/26,"1,70",N/A,1.1 m,110/70,248,150,
+P213,Matías Muñoz,43,masculino,1983/03/07,28/06/26,194 cm,82kg,120,172/62,197,,Alto
+P214,Felipe Espinoza,74,masculino,1952.08.25,2026.06.25,1.82 m,103kg,1.1 m,105/110,138,86.0 mg/dL,alto
+P215,Matías Contreras,83,Masculino,1943.10.26,2026-06-22,178 cm,-,125,147 / 80,366.0 mg/dL,197.0 mg/dL,alto
+P216,Sebastián Araya,50,M,1976/08/25,19/06/26,1500 mm,269 lb,123.0 cm,170/61,81,92,MUY ALTO
+P217,Tomás Vega,37,Masculino,1989-02-06,16-06-2026,180 cm,125.3,0.6 m,109/173,227,239.0 mg/dL,
+P218,Matías Díaz,54,M,20-06-1972,13-06-2026,"1,89",N/A,103.0 cm,190/87,155.0 mg/dL,89,Moderado
+P219,Macarena Torres,88,Femenino,25-03-1938,10/06/2026,"1,67",75kg,91,119/88,138.0 mg/dL,127,Alto
+P220,Constanza Soto,81,F,1945-03-09,07/06/26,"1,93",121.2,129,189/82,123,166.0 mg/dL,Moderado
+P221,Nicolás Méndez,48,H,1978/11/22,2026/06/04,"1,50",69,-,109/92,297.0 mg/dL,162,
+P222,Martín Soto,47,M,1979.08.03,2026-06-01,1.84m,256 lb,1.1 m,178/96 mmHg,292,94.0 mg/dL,alto
+P223,Sofía Herrera,87,mujer,1939-13-12,29/05/2026,152 cm,97kg,98,112/94,,194,alto
+P224,Sofía Tapia,41,f,1985.02.07,26/05/2026,1.82 m,50 kg,131,176/110 mmHg,349,218,alto
+P225,José Navarro,23,H,2003-01-05,2026/05/23,1640 mm,97 kg,138,91/96,124.0 mg/dL,172,
+P226,Martín Molina,26,Hombre,18-05-2000,2026-05-20,1.69m,116 kg,113.0 cm,162/85,239,235.0 mg/dL,MUY ALTO
+P227,Javiera Pérez,65,mujer,1961.02.27,2026/05/17,"1,80",82.9,121,109 / 63,252,97,MUY ALTO
+P228,Paula Herrera,49,F,1977/08/23,14/05/2026,1890 mm,122kg,91,114/69,415,196.0 mg/dL,
+P229,Francisca Vera,66,Femenino,16/06/1960,11/05/26,1.54m,-,86,117-75,316.0 mg/dL,93.0 mg/dL,Alto
+P230,Catalina Ortega,85,f,1941.03.13,08/05/2026,1.50 m,111.3,97,114/103,287,9.9 mmol/L,MUY ALTO
+P231,Isidora Soto,59,Femenino,1967.07.28,2026-05-05,1.60 m,99 kg,104.0 cm,99-108,192.0 mg/dL,N/A,alto
+P232,Carlos Peña,26,masculino,2000.04.25,02/05/2026,1.56 m,258 lb,104.0 cm,,250.0 mg/dL,204,
+P233,Ana Méndez,65,Femenino,01/10/1961,29-04-2026,152,45kg,78,91/95,114,119.0 mg/dL,MUY ALTO
+P234,Macarena Herrera,57,mujer,1969-07-23,26-04-2026,1830 mm,115 kg,88,190/95,392,131.0 mg/dL,MUY ALTO
+P235,Ricardo Núñez,63,M,20/07/1963,2026.04.23,1.85 m,65kg,142.0 cm,173/108,85.0 mg/dL,12.1 mmol/L,Alto
+P236,José Fuentes,32,M,1994.07.08,2026.04.20,178,N/A,100,180/90 mmHg,98.0 mg/dL,96,Alto
+P237,Valentina Morales,38,F,12-07-1988,17/04/26,153,77.2,,107/60,80,110.0 mg/dL,alto
+P238,Camila Araya,49,Femenino,22-08-1977,2026.04.14,195,101.6,0.7 m,161/69,158,12.4 mmol/L,
+P239,Fernanda Soto,sesenta,Femenino,1985.03.01,11-04-2026,1.71 m,48 kg,141,,78,125,Bajo
+P240,Benjamín Espinoza,56,Masculino,21/15/1970,2026/08/06,1.74 m,N/A,sin dato,111 / 82,170,125.0 mg/dL,alto
+P241,Ricardo Fuentes,85,Hombre,1941-01-20,03-08-2026,171 cm,119,144.0 cm,178/56,81,190,Moderado
+P242,Sebastián Soto,60,M,1966-03-32,31/07/26,1.59 m,123,75,173 / 89,348,108,alto
+P243,Fernanda Peña,26,F,2000.11.22,2026.07.28,1.91 m,67,126,177/68 mmHg,126,75,Moderado
+P244,María Núñez,71,mujer,10/02/1955,2026.07.25,178,-,118.0 cm,151/75 mmHg,285.0 mg/dL,6.6 mmol/L,Moderado
+P245,Martín Fuentes,treinta y ocho,masculino,1986.06.10,2026-07-22,176 cm,110,122.0 cm,116/70,54,4.4 mmol/L,
+P246,Juan Fuentes,24,masculino,22/03/2002,2026/07/19,1.70 m,95 kg,69.0 cm,158/57,296.0 mg/dL,213,Alto
+P247,Sebastián Salazar,36,M,1990-04-03,2026.07.16,"1,66",62 kg,105,109/73,195,215,Bajo
+P248,Martín Silva,19,Hombre,10-12-2007,2026/07/13,1.81m,95kg,134,,362.0 mg/dL,156,alto
+P249,José Contreras,29,Masculino,12/03/1997,2026.07.10,168,64.6,145.0 cm,101/161,103,83,
+P250,Macarena Molina,80,F,26/09/1946,2026.07.07,172,-,101,118-92,202,72,MUY ALTO
+P251,Martín Torres,40,Hombre,03/12/1986,2026-07-04,1.76m,111.6,97.0 cm,114/103,402.0 mg/dL,233,
+P252,Andrés Rojas,67,Hombre,25/02/1959,01/07/26,1.56 m,N/A,84,183 / 65,314,115,
+P253,Ricardo Rojas,49,masculino,1977-07-32,28/06/26,1.71 m,95 kg,126,,84.0 mg/dL,204,
+P254,Antonia Vega,50,F,03-12-1976,2026/06/25,"1,92",-,118.0 cm,103/101,344.0 mg/dL,125,Alto
+P255,Sebastián Herrera,74,Masculino,1952.08.27,22/06/2026,1.92 m,-,126.0 cm,101/190,59.0 mg/dL,132,
+P256,Andrés Molina,45,masculino,20-05-1981,2026-06-19,1.55 m,101 lb,71.0 cm,90 / 106,122,160,MUY ALTO
+P257,Sebastián Méndez,78,M,1948.10.14,16/06/2026,"1,90",N/A,83,124 / 64,149,107,alto
+P258,Benjamín Vera,25,Masculino,2001.04.19,2026.06.13,1.57 m,100 kg,98,135/107,384.0 mg/dL,,Moderado
+P259,Macarena Méndez,55,Femenino,1971.08.11,2026/06/10,1.56 m,65,96.0 cm,140/78,347.0 mg/dL,,Bajo
+P260,Sebastián Muñoz,69,H,15/06/1957,2026-06-07,"1,66",78,74,108/88 mmHg,238.0 mg/dL,122,
+P261,Francisca Araya,24,f,09/02/2002,2026/06/04,159 cm,47,63,144/60,200.0 mg/dL,7.8 mmol/L,
+P262,Diego Díaz,36,Hombre,1990.09.26,01/06/26,"1,63",95 kg,142,124/103 mmHg,-,11.7 mmol/L,Moderado
+P263,Nicolás Rojas,84,H,10-11-1942,2026.05.29,1800 mm,95 kg,138,140-77,223.0 mg/dL,129,Moderado
+P264,María Silva,53,F,1973-10-13,2026-05-26,1.51m,120,144,112/87,92,101,Moderado
+P265,Catalina Salazar,72,mujer,10/15/1954,23/05/2026,1.49 m,92kg,96.0 cm,189/57,351.0 mg/dL,189,alto
+P266,Valentina Silva,29,Femenino,13-11-1997,20-05-2026,1.60 m,61.7,67.0 cm,,296.0 mg/dL,11.7 mmol/L,Moderado
+P267,Carlos Vera,42,Hombre,1984.03.21,2026.05.17,169,99kg,94,172/73 mmHg,336.0 mg/dL,143,
+P268,Fernanda González,41,F,10-10-1985,2026/05/14,195 cm,74.2,1.4 m,146 / 100,183.0 mg/dL,68.0 mg/dL,Bajo
+P269,José López,68,H,01/11/1958,2026.05.11,180 cm,220 lb,134,123-82,317,231,Moderado
+P270,Tomás Campos,19,H,2007.03.12,08/05/26,152 cm,48 kg,145,116/61,80.0 mg/dL,3.9 mmol/L,
+P271,Carlos Navarro,84,Hombre,1942.02.28,05/05/26,171,-,1.4 m,124/114 mmHg,291.0 mg/dL,174.0 mg/dL,alto
+P272,Paula Silva,72,F,1954-11-27,02-05-2026,1480 mm,96kg,65,94/82,sin dato,141,Bajo
+P273,José López,35,M,27-02-1991,29-04-2026,"1,74",120 kg,141,153-109,344,233,MUY ALTO
+P274,José López,31,Hombre,1995/04/13,26/04/2026,173 cm,105 kg,137,145-107,184,82,MUY ALTO
+P275,Cristóbal Silva,77,Masculino,22-06-1949,2026.04.23,154 cm,104 kg,95,90/109,159,12.8 mmol/L,Alto
+P276,Sebastián Silva,24,Masculino,2002/07/25,20-04-2026,1.94m,-,126,157/70,295.0 mg/dL,145.0 mg/dL,MUY ALTO
+P277,Paula Fuentes,60,f,24-09-1966,17/04/26,1.84 m,105 kg,101,106/202,405,142,Bajo
+P278,José Díaz,86,H,1940/04/04,14-04-2026,193,159 lb,125,120/165,342,176.0 mg/dL,MUY ALTO
+P279,Pedro Morales,86,masculino,20/07/1940,2026.04.11,189 cm,97 kg,78,94-69,230,218,MUY ALTO
+P280,Benjamín Vidal,78,Masculino,1948-10-01,06/08/26,1740 mm,83kg,138,122-63,343.0 mg/dL,165,Moderado
+P281,María Torres,55,Femenino,1971-12-16,2026-17-03,163,106kg,69,164/105,215.0 mg/dL,152.0 mg/dL,Bajo
+P282,Macarena Díaz,28,Femenino,26-01-1998,2026/07/31,165 cm,46 kg,0.8 m,150/105,212.0 mg/dL,165,Bajo
+P283,Sebastián López,27,Masculino,02/02/1999,28/07/2026,166 cm,62,111.0 cm,112/55,362.0 mg/dL,105,
+P284,José Vidal,46,masculino,27/03/1980,2026-07-25,"1,87",94 kg,110,101-112,87,149,Moderado
+P285,Pedro Reyes,59,H,1967-02-05,2026/07/22,"1,90",54 kg,84,121-60,305,154.0 mg/dL,Bajo
+P286,Javiera Tapia,42,Femenino,23/02/1984,19/07/2026,1.60m,57 kg,105.0 cm,173/78,371.0 mg/dL,201,Alto
+P287,Juan Molina,71,Hombre,1955/01/19,16/07/2026,192,61,83,129/75,120,229,MUY ALTO
+P288,Constanza Castillo,34,f,1992-06-15,2026/07/13,195 cm,55.5,133,188/73,,149,alto
+P289,Cristóbal Navarro,58,M,1968.10.21,10/07/2026,"1,62",N/A,126.0 cm,108/84,267,84,Alto
+P290,Tomás Peña,19,Masculino,2007.06.03,2026.07.07,172 cm,79 kg,70,133/111,131.0 mg/dL,195.0 mg/dL,Moderado
+P291,Macarena Muñoz,78,mujer,01-06-1948,04-07-2026,1930 mm,105,63,154/91,353.0 mg/dL,199,Bajo
+P292,Daniela Campos,88,Femenino,1938/11/15,01-07-2026,"1,50",75kg,61,116/56,115,72.0 mg/dL,Moderado
+P293,Camila Méndez,40,mujer,15/11/1986,28/06/26,"1,62",52 kg,73,142/110 mmHg,64,109,alto
+P294,Paula Díaz,61,f,1965.02.12,2026/06/25,186 cm,179 lb,103,151/80,185,sin dato,
+P295,Felipe Torres,56,Hombre,1970/09/22,2026-17-22,1840 mm,103,69.0 cm,121/57,374.0 mg/dL,168,Alto
+P296,Fernanda Vega,36,mujer,07/15/1990,2026/06/19,1.64 m,94 kg,83,134/96,55,95,
+P297,Diego Méndez,50,M,1976-13-10,2026-06-16,"1,60",55kg,85.0 cm,110/209,406,108.0 mg/dL,
+P298,Diego Morales,32,Hombre,1994/05/28,13/06/2026,1780 mm,64 kg,117,155/110,109,5.0 mmol/L,Bajo
+P299,Fernanda Tapia,63,mujer,1963.11.18,10/06/2026,170,52 kg,88,187/80 mmHg,247.0 mg/dL,8.4 mmol/L,Moderado
+P300,Andrés Pérez,23,Hombre,2003/06/18,07/06/26,187,90 kg,94.0 cm,152/71,267.0 mg/dL,191,
